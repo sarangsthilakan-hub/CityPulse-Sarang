@@ -1,6 +1,6 @@
 string ="this is string"
 floating_Value = 2.35
-integer = 823
+integer = 823 
 booool = True
 
 print(string,floating_Value,integer,booool)
